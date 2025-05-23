@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual env
+.venv/
+
+# HDF5 / model data
+*.h5
+benchmark_project/
+data/
+
+# VSCode / PyCharm
+.idea/
+.vscode/
